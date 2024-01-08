@@ -4,17 +4,17 @@ Welcome to the Indian States Guessing Game! This Python game is designed to test
 
 # How to Play:
 1) Run the game using a Python environment, preferably PyCharm.
-2) Enter the names of Indian states when prompted.\
-3) If correct, the answer will be displayed on the Indian map.\
-4) Type "exit" to leave the game.\
-5) Check the missing states to learn more about Indian geography.\
+2) Enter the names of Indian states when prompted.
+3) If correct, the answer will be displayed on the Indian map.
+4) Type "exit" to leave the game.
+5) Check the missing states to learn more about Indian geography.
 
 
 # Requirements:
-1) Python 3.x\
-2) PyCharm (or any Python IDE)\
-3) Pandas library\
-4) Turtle library\
+1) Python 3.x
+2) PyCharm (or any Python IDE)
+3) Pandas library
+4) Turtle library
 
 # Contribution:
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
